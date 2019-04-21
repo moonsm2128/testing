@@ -5,3 +5,4 @@ https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 
 In the above video, he is teaching how to "branch" and commit.
 
+Now I'm trying to use bash prompt to make commits.
